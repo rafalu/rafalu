@@ -19,13 +19,16 @@ class RafalUlatowski : CloudEngineer
 ## Technical Skills
 
 - **Cloud & Azure**
-  App Services, Functions, AKS, APIM, Service Bus, Event Grid, Storage, VNETs, Private Endpoints, Networking, Monitoring, Landing Zones
+  App Services, Functions, Service Bus, Event Grid, Storage, VNETs, Private Endpoints, Networking, Monitoring
 
 - **.NET / C#**
   Distributed systems, microservices, REST APIs, integration patterns, async messaging, high-availability workloads
 
-- **IaC, Platform Engineering & DevOps**
-  Bicep, modular IaC, environment orchestration, GitOps, GitHub Actions, Azure DevOps Pipelines, Containers, Docker, container registries, automated deployments, release strategies
+- **Full-Stack (React / Next.js)**
+  React, Next.js, TypeScript, Tailwind, API integration, SSR/SSG, component architecture, modern UI tooling — enough to build complete, production-ready frontends end-to-end
+
+- **DevOps**
+  Bicep, modular IaC, environment orchestration, Azure DevOps Pipelines, Containers, Docker, container registries, automated deployments, release strategies
 
 - **Architecture**
   Cloud solution design, scalable topologies, event-driven systems, reliability patterns, cost optimization

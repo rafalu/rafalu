@@ -24,11 +24,8 @@ class RafalUlatowski : CloudEngineer
 - **.NET / C#**
   Distributed systems, microservices, REST APIs, integration patterns, async messaging, high-availability workloads
 
-- **IaC & Platform Engineering**
-  Bicep, Terraform, modular IaC, environment orchestration, GitOps
-
-- **DevOps & CI/CD**
-  GitHub Actions, Azure DevOps Pipelines, Containers, Docker, container registries, automated deployments, release strategies
+- **IaC, Platform Engineering & DevOps**
+  Bicep, modular IaC, environment orchestration, GitOps, GitHub Actions, Azure DevOps Pipelines, Containers, Docker, container registries, automated deployments, release strategies
 
 - **Architecture**
   Cloud solution design, scalable topologies, event-driven systems, reliability patterns, cost optimization

@@ -1,4 +1,4 @@
-﻿# Hi, I'm Rafal   
+﻿# Hi, I'm Rafal Ulatowski 👋  
 **Senior Azure Cloud Architect & .NET Developer**
 
 I'm a cloud-focused architect based in Copenhagen, building large-scale distributed systems on Azure using .NET, DevOps, and IaC.  

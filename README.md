@@ -4,15 +4,21 @@
 
 ## 👋 Hi there!
 
-I'm a cloud-focused engineer building efficient, scalable systems on Azure using .NET, DevOps practices, and Infrastructure as Code.
+I'm a Cloud & Backend Engineer focused on building scalable, reliable systems on Azure using .NET, DevOps and Infrastructure as Code.  
+These days, my workflow is heavily AI-driven — AI helps me design, code, debug and ship features fast, even in stacks outside my primary domain.
 
 ```csharp
 class RafalUlatowski : CloudEngineer
 {
-  public string Location = "Copenhagen, Denmark ";
-  public string[] Skills = new[] { "C#", ".NET", "Azure", "React", "Bicep", "CI/CD" };
+    public string Location = "Copenhagen, Denmark";
 
-  public string CurrentFocus() => "Building cloud platforms and optimizing distributed systems for performance and reliability";
+    public string[] Skills = new[]
+    {
+        "C#", ".NET", "Azure", "React", "Next.js", "Bicep", "CI/CD"
+    };
+
+    public string CurrentFocus() =>
+        "Building cloud platforms, optimizing distributed systems and using AI tooling to speed up full-stack delivery.";
 }
 ```
 
